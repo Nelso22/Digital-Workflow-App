@@ -89,9 +89,7 @@ function Create() {
           </div>
 
           <div className="flex items-center pb-3">
-            <label className="text-2xl pr-2 text-yellow-300	">
-              Phone Number:
-            </label>
+            <label className="text-2xl pr-2 text-yellow-300	">Email:</label>
             <input
               className="w-full h-10 rounded"
               required
