@@ -97,7 +97,7 @@ function Create() {
               name="email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              placeholder="Enter Phone Number..."
+              placeholder="Enter Email..."
             />
           </div>
 
